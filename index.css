@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+h3 {
+    #background: #EEEEEE;
+    color: #EEEEEE;
+
+}
+.score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 60px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background: #1B244A
+    
+}
+
+button {
+    Font family: Cursed Timer ULiL;
+    Font style: Regular;
+    Font size: 18px;
+    Line height: 27.81px;
+    Align: Center;
+    Vertical align: Top;
+}
